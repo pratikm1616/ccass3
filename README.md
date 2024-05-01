@@ -7,4 +7,7 @@ right click on pack. > showin>system explorer>copy all programs and past in that
 refresh src
 change names of packages
 click o src >project>properties>java build path>libraries>class path
-add external jars>
+add external jars> paste jars
+c+save
+deleted module file
+run main file
